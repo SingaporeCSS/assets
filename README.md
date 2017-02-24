@@ -1,11 +1,11 @@
 # SingaporeCSS Logo
 In SVG, PNG and Illustrator formats.
 
-## SVG
-![css-singapore logo svg](https://raw.githubusercontent.com/Singapore-CSS/logo/master/css-singapore-logo.svg)
-
 ## PNG
-![css-singapore logo png](https://raw.githubusercontent.com/Singapore-CSS/logo/master/css-singapore-logo.png)
+![SingaporeCSS logo (PNG)](https://github.com/SingaporeCSS/logo/raw/master/logo.png)
+
+## SVG
+[SingaporeCSS logo (SVG)](https://raw.githubusercontent.com/SingaporeCSS/logo/master/logo.svg)
 
 ## Adobe Illustrator
-![css-singapore logo ai](https://raw.githubusercontent.com/Singapore-CSS/logo/master/css-singapore-logo.ai)
+[SingaporeCSS logo (AI)](https://github.com/SingaporeCSS/logo/raw/master/logo.ai)
