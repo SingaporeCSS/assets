@@ -1,4 +1,4 @@
-# CSS Singapore Logo
+# SingaporeCSS Logo
 In SVG, PNG and Illustrator formats.
 
 ## SVG
